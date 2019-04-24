@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "779733908372",
+    "firebase_url": "https://twitterclone-a33c2.firebaseio.com",
+    "project_id": "twitterclone-a33c2",
+    "storage_bucket": "twitterclone-a33c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779733908372:android:ff47377324937534",
+        "android_client_info": {
+          "package_name": "com.companies.patil.twitter_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779733908372-7k3mdmvk32bbqf8u1teh0f2eo48q8oaq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.companies.patil.twitter_clone",
+            "certificate_hash": "e9bab7d3c334ee0bd649e5512dee1e98a2f64048"
+          }
+        },
+        {
+          "client_id": "779733908372-ps5ipugd2kh0e3g1rrnl9m25vnmcgeqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBm-xpiKHM1Kp7aiT_YMiN0VKpqkJ59s4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779733908372-ps5ipugd2kh0e3g1rrnl9m25vnmcgeqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779733908372:android:6cb2634f9bf6fae6",
+        "android_client_info": {
+          "package_name": "com.companies.patil.twitter_demo_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779733908372-3vs6o2psqouacd0jio7jdg89c68beifq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.companies.patil.twitter_demo_final",
+            "certificate_hash": "e9bab7d3c334ee0bd649e5512dee1e98a2f64048"
+          }
+        },
+        {
+          "client_id": "779733908372-ps5ipugd2kh0e3g1rrnl9m25vnmcgeqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBm-xpiKHM1Kp7aiT_YMiN0VKpqkJ59s4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779733908372-ps5ipugd2kh0e3g1rrnl9m25vnmcgeqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
